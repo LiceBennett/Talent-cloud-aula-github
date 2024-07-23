@@ -1,1 +1,4 @@
 Oie
+git add . - todo o diretório
+git commit -m "colocar a mensagem feita"
+git push - empurra o repositório local para github
